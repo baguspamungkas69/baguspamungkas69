@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi Semua 👋
+# Nama Saya Gusdik
 <!--
 **baguspamungkas69/baguspamungkas69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
